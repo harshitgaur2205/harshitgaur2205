@@ -1,9 +1,9 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://gaurfoundation.vercel.app/)
-<h1 align="center">Hi 👋, I'm Harshit Gaur</h1>
+<h1 align="center">Hi 👋, I'm HARSHIT GAUR</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="">
 
-<p align="left"> <img src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" alt="harshitgaur2205" /> </p>
+<p align="left"> <img src="https://i.gifer.com/3AyY.gif" alt="harshitgaur2205" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitgaur2205" alt="harshitgaur2205" /></a> </p>
 
