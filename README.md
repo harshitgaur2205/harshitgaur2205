@@ -3,7 +3,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif">
 
- <img src="https://i.gifer.com/3AyY.gif" alt="harshitgaur2205" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitgaur2205" alt="harshitgaur2205" /></a> </p>
 
