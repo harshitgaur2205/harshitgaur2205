@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://gaurfoundation.vercel.app/)
 <h1 align="center">Hi 👋, I'm HARSHIT GAUR</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif">
 
 <p align="left"> <img src="https://i.gifer.com/3AyY.gif" alt="harshitgaur2205" /> </p>
 
